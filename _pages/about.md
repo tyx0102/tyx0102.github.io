@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-About
-------
+## About
+
 I am currently pursuing a **Ph.D. in Finance** and expect to graduate in **20XX**. I completed an **M.S. in Finance** at **The Chinese University of Hong Kong (CUHK)** and hold a **B.Com. (Finance)** from **The University of New South Wales (UNSW)**.
 
 My research interests include **"xxx"**.
 
-Education
+## Education
 ---
 - **The Chinese University of Hong Kong (CUHK)**
-  Ph.D. in Finance (Expected 20XX)
-  M.S. in Finance (2024)
+  - Ph.D. in Finance (Expected 20XX)
+  - M.S. in Finance (2024)
 
 - **The University of New South Wales (UNSW)**
-  B.Com. in Finance (2023)
+  - B.Com. in Finance (2023)
 
-Work Experience
+## Work Experience
 ---
 - **SPD Bank (Hong Kong)**
   Treasury Department (Nov. 2024 - Oct. 2025)
