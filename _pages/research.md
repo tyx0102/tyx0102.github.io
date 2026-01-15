@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers 1
+## NOA Trading Strategy
 
 **Authors:** Yixin TANG
 
