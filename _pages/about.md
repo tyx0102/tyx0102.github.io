@@ -28,6 +28,6 @@ My research interests include **"xxx"**.
   
   Duties includes: Managed the bank’s asset-liability framework by implementing FTP to guide resource allocation, overseeing liquidity and interest rate risk (LMR, DV01), and enhancing ALM processes to support ALCO decision-making.
 
-- **Orient Securities** - Fixed-income Department, Bond Financing
+- **Orient Securities** - Fixed-income Department, Bond Financing (Feb. 2023 – May. 2023)
   
   Duties included: Contributed to SOE bond financing projects nationwide, handling documentation, underwriting support, and risk monitoring to build expertise in credit analysis.
