@@ -9,7 +9,7 @@ redirect_from:
 
 About
 ------
-I’m **Yixin TANG (汤翊鑫)**. I am currently pursuing a **Ph.D. in Finance** and expect to graduate in **20XX**. I completed an **M.S. in Finance** at **The Chinese University of Hong Kong (CUHK)** and hold a **B.Com. (Finance)** from **The University of New South Wales (UNSW)**.
+I am currently pursuing a **Ph.D. in Finance** and expect to graduate in **20XX**. I completed an **M.S. in Finance** at **The Chinese University of Hong Kong (CUHK)** and hold a **B.Com. (Finance)** from **The University of New South Wales (UNSW)**.
 
 My research interests include **"xxx"**.
 
