@@ -11,42 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, The Chinese University of Hong Kong (CUHK) (Expected 20XX)
+* M.S. in Finance, The Chinese University of Hong Kong (CUHK) 2024
+* B.S. in Finance, The University of New South Wales (UNSW) 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2024 - Oct. 2025: Treasury Department
+  * SPD Bank (Hong Kong)
+  * Duties includes: Managed the bank's asset-liability framework by implementing FTP to guide resource allocation, overseeing liquidity and interest rate risk (LMR, DV01), and enhancing ALM processes to support ALCO decision-making.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2023 – May. 2023: Fixed-income Department, Bond Financing
+  * Orient Securities
+  * Duties included: Contributed to SOE bond financing projects nationwide, handling documentation, underwriting support, and risk monitoring to build expertise in credit analysis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MS Office, Wind, Bloomberg, Python, familiar with Stata
 
+{% comment %}
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -61,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+{% endcomment %}
