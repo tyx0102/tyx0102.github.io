@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Nov. 2024 - Oct. 2025: Treasury Department
-  * SPD Bank (Hong Kong)
+* Nov. 2024 - Oct. 2025: SPD Bank (Hong Kong)
+  * Department: Treasury
   * Duties includes: Managed the bank's asset-liability framework by implementing FTP to guide resource allocation, overseeing liquidity and interest rate risk (LMR, DV01), and enhancing ALM processes to support ALCO decision-making.
 
-* Feb. 2023 – May. 2023: Fixed-income Department, Bond Financing
-  * Orient Securities
+* Feb. 2023 – May. 2023: Orient Securities
+  * Department: Fixed-income, Bond Financing
   * Duties included: Contributed to SOE bond financing projects nationwide, handling documentation, underwriting support, and risk monitoring to build expertise in credit analysis.
 
   
