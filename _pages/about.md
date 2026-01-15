@@ -14,7 +14,7 @@ I am currently pursuing a **Ph.D. in Finance** and expect to graduate in **20XX*
 My research interests include **"xxx"**.
 
 ## Education
----
+
 - **The Chinese University of Hong Kong (CUHK)**
   - Ph.D. in Finance (Expected 20XX)
   - M.S. in Finance (2024)
@@ -23,7 +23,7 @@ My research interests include **"xxx"**.
   - B.Com. in Finance (2023)
 
 ## Work Experience
----
+
 - **SPD Bank (Hong Kong)**
   Treasury Department (Nov. 2024 - Oct. 2025)
   Duties includes: Managed the bank’s asset-liability framework by implementing FTP to guide resource allocation, overseeing liquidity and interest rate risk (LMR, DV01), and enhancing ALM processes to support ALCO decision-making.
